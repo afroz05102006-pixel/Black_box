@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+mcp
+boto3
+pytest
+python-dotenv
+httpx
+pydantic
